@@ -3,9 +3,9 @@
 ## 📖 Table of Contents
 1. [📌 Overview](#-overview)
 2. [📊 System Architecture ](#-system-architecture)
-3. [📂 Structure of repositories](#-structure-of-repositories)
+3. [📂 Structure of Repositories](#-structure-of-repositories)
 4. [▶️ How to Run the Entire System?](#️-how-to-run-the-entire-system)
-5. [📸 Application screenshots](#-application-screenshots)
+5. [📸 Examples of Application Screenshots](#-examples-of-application-screenshots)
 
 ## 📌 Overview   
 **HotelML** project was created to support the hotel infrastructure management process , developed as part of an engineering thesis. The system consists of multiple microservices that handle among other things, booking and adding rooms and hotels, the process of registering and logging users, modifying their data, creating and managing reservations.  
@@ -16,9 +16,9 @@
 Below is a diagram showing the architecture of the system:
 
 📌 **Architecture Diagram:**  
-![Architecture Diagram](docs/architecture_diagram.png)  
+🔗 [View the architecture Diagram](docs/diagrams/architecture_diagram.svg)  
 
-## 📂 Structure of repositories
+## 📂 Structure of Repositories
 The system includes the following microservices:
 
 | Service | Description | Repository |
@@ -56,12 +56,33 @@ docker-compose up --build
 
 6️⃣ **Go to http://localhost:8080/**
 
-## 📸 Application screenshots
-### 🔹 Home page of a non-logged-in user
-![Strona główna](docs/home_page_non-logged-in_user.png)
+---
 
-### 🔹 Login page
-![Strona główna](docs/login_page.png)
+## 📸 Examples of Application Screenshots
+### 🔹 Home Page of a Non-logged-in User
+🔗 [View the home page of a non-logged-in user](docs/photos/home_page_non-logged-in_user.png)
 
-### 🔹 Registration page
-![Strona główna](docs/registration_page.png)
+---
+
+### 🔹 Login Page
+🔗 [View the login page](docs/photos/login_page.png)
+
+---
+
+### 🔹 Registration Page
+🔗 [View the registration page](docs/photos/registration_page.png)
+
+---
+
+### 🔹 Main Menu of the Logged-in Admin
+🔗 [View the main menu of the logged-in admin](docs/photos/main-menu-of-the-logged-in-admin.png)
+
+---
+
+### 🔹 Main Menu of the Logged-in User
+🔗 [View the main menu of the logged-in user](docs/photos/main-menu-of-the-logged-in-user.png)
+
+---
+
+### 🔹 List of Available Rooms
+🔗 [View the list of available rooms](docs/photos/list-of-available-rooms.png)
