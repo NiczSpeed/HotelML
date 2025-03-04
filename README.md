@@ -1,11 +1,11 @@
 # 🏨 HotelML – Documentation & Architecture  
 
 ## 📖 Table of Contents
-1. [📌 Overview](#overview)
-2. [📊 System Architecture ](#system-architecture)
-3. [📂 Structure of repositories](#structure-of-repositories)
-4. [▶️ How to Run the Entire System?](#️how-to-run-the-entire-system)
-5. [📸 Application screenshots](#application-screenshots)
+1. [📌 Overview](#-overview)
+2. [📊 System Architecture ](#-system-architecture)
+3. [📂 Structure of repositories](#-structure-of-repositories)
+4. [▶️ How to Run the Entire System?](#️-how-to-run-the-entire-system)
+5. [📸 Application screenshots](#-application-screenshots)
 
 ## 📌 Overview   
 **HotelML** project was created to support the hotel infrastructure management process , developed as part of an engineering thesis. The system consists of multiple microservices that handle among other things, booking and adding rooms and hotels, the process of registering and logging users, modifying their data, creating and managing reservations.  
