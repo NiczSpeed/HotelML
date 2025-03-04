@@ -45,16 +45,11 @@ git clone https://github.com/NiczSpeed/Hotel_ML_Reservation_Service
 ```sh
 cd Hotel_ML_APIGateway_Service
 ```
-4️⃣ **Build Docker Images for Microservices:**
-```sh
-docker-compose build 
-```
-5️⃣ **Build and start all microservices using Docker Compose:**
+4️⃣ **Build and start all microservices using Docker Compose:**
 ```sh
 docker-compose up --build 
 ```
-
-6️⃣ **Go to http://localhost:8080/**
+5️⃣ **Go to http://localhost:8080/**
 
 ## 📸 Examples of Application Screenshots
 ### 🔹 Home page of a non-logged-in user
