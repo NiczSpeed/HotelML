@@ -23,11 +23,11 @@ The system includes the following microservices:
 
 | Service | Description | Repository |
 |---------|------------|------------|
-| 💳 **hotel_ml_front** | Application UI | [Repo](https://github.com/NiczSpeed/hotel_ml_front) |
-| 🏠 **Hotel_ML_APIGateway_Service** | Central API communication hub | [Repo](https://github.com/NiczSpeed/Hotel_ML_APIGateway_Service) |
-| 📦 **Hotel_ML_Auth_Service** | User data management | [Repo](https://github.com/NiczSpeed/Hotel_ML_Auth_Service) |
-| 🖥️ **Hotel_ML_Rooms_And_Hotels_Service** | Hotel and room management | [Repo](https://github.com/NiczSpeed/Hotel_ML_Rooms_And_Hotels_Service) |
-| 🔄 **Hotel_ML_Reservation_Service** | Reservation management | [Repo](https://github.com/NiczSpeed/Hotel_ML_Reservation_Service) |
+| 🖥️ **hotel_ml_front** | Application UI | [Repo](https://github.com/NiczSpeed/hotel_ml_front) |
+| 🔄 **Hotel_ML_APIGateway_Service** | Central API communication hub | [Repo](https://github.com/NiczSpeed/Hotel_ML_APIGateway_Service) |
+| 🔑 **Hotel_ML_Auth_Service** | User data management | [Repo](https://github.com/NiczSpeed/Hotel_ML_Auth_Service) |
+| 🏨 **Hotel_ML_Rooms_And_Hotels_Service** | Hotel and room management | [Repo](https://github.com/NiczSpeed/Hotel_ML_Rooms_And_Hotels_Service) |
+| 📅 **Hotel_ML_Reservation_Service** | Reservation management | [Repo](https://github.com/NiczSpeed/Hotel_ML_Reservation_Service) |
 
 ---
 
