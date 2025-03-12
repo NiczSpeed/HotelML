@@ -8,7 +8,7 @@
 5. [📸 Examples of Application Screenshots](#-examples-of-application-screenshots)
 
 ## 📌 Overview   
-**HotelML** project was created to support the hotel infrastructure management process , developed as part of an engineering thesis. The system consists of multiple microservices that handle among other things, booking and adding rooms and hotels, the process of registering and logging users, modifying their data, creating and managing reservations.  
+**HotelML** project was created to support the hotel infrastructure management process , developed as part of an engineering thesis. The system consists of multiple microservices that handle among other things, booking and adding rooms and hotels, the process of registering and logging users, modifying their data, creating and managing reservations. Of the unusual solutions created for the study is the placement of Apache Kafka as the main information exchange system combined with Java multithreading to achieve a satisfactory result.
 
 ---
 
