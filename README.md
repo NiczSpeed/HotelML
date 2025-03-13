@@ -15,7 +15,8 @@
 ## 📊 System Architecture  
 Below is a diagram showing the architecture of the system:
 
-📌 **Architecture Diagram:**  
+📌 **Architecture Diagram:** 
+
 🔗 [View the architecture Diagram](docs/diagrams/architecture_diagram.svg)  
 
 ## 📂 Structure of Repositories
